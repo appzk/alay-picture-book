@@ -2,3 +2,4 @@ prompt.csv
 prompt11.csv
 sd3-picbook-workflow_api1.json
 generate_clips.log
+__pycache__
